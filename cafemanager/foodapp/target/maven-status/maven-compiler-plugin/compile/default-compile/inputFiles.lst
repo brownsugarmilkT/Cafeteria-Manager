@@ -1,0 +1,17 @@
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/FoodappApplication.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/config/WebConfig.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/controller/CafeteriaController.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/controller/FoodController.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/controller/UserController.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/models/Cafeteria.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/models/Food.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/models/FoodRequest.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/models/Profile.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/models/User.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/repositories/CafeteriaRepository.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/repositories/FoodRepository.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/repositories/ProfileRepository.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/repositories/UserRepository.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/service/CafeteriaService.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/service/FoodService.java
+/Users/sam/Downloads/mcgill-calories-main/foodapp/src/main/java/com/example/foodapp/service/UserService.java

@@ -1,0 +1,17 @@
+com/example/foodapp/config/WebConfig.class
+com/example/foodapp/repositories/ProfileRepository.class
+com/example/foodapp/service/FoodService.class
+com/example/foodapp/service/UserService.class
+com/example/foodapp/models/Food.class
+com/example/foodapp/models/User.class
+com/example/foodapp/controller/UserController.class
+com/example/foodapp/controller/FoodController.class
+com/example/foodapp/repositories/CafeteriaRepository.class
+com/example/foodapp/repositories/FoodRepository.class
+com/example/foodapp/repositories/UserRepository.class
+com/example/foodapp/models/Cafeteria.class
+com/example/foodapp/service/CafeteriaService.class
+com/example/foodapp/FoodappApplication.class
+com/example/foodapp/models/Profile.class
+com/example/foodapp/controller/CafeteriaController.class
+com/example/foodapp/models/FoodRequest.class

@@ -1,0 +1,5 @@
+11 august-
+
+changed type of nutritional values from float to int
+saw no point in giving food "id", therefore commeneted out from the constructor in food
+made a datapopulationservice class in order to add data in the database
